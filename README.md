@@ -2,7 +2,7 @@
 
 A basic rendering pipeline. Results are output to an image file.
 
-The pipeline implements 5 steps of a typical rendering pipeline.
+The pipeline implements steps of a typical rendering pipeline.
 
 1. Implements a vertex shader which processes each vertex into an output vertex.
 
